@@ -30,5 +30,7 @@ type: type of the term, N: Noun, NP: Noun Phrase, PN: Proper Noun, G: Other
 Libs Sanford CoreNLP and OpenNLP were used to split the docs in sentences, NER and POS tagging
 
 
-## Note
-The dataset is not manually processed, so you might see some unusual terms such as some common emails, news site names, editor/author names etc. These can be easily filtered by keeping the words with higher ***frequency/presence*** ratio. 
+## Notes
+1. The dataset is not manually processed, so you might see some unusual terms such as some common emails, news site names, editor/author names etc. These can be easily filtered by keeping the words with higher ***frequency/presence*** ratio. 
+
+2. The dataset includes all type of frequent terms like proper nouns, places, orgs etc. One can filter these using the *type* column. 
