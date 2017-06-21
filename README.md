@@ -1,8 +1,8 @@
 ## About
 
-The file sw1k.csv contains most frequent 1,000 words and phrases occurred in more than 1.53 million news articles from 200+ sources collected over the span of a 2.5 year. 
+The file sw1k.csv contains most frequent 1,000 words and phrases occurred in more than 1.53 million news articles from 200+ sources collected over the span of a 2.5 years. 
 
-Similarily sw10k.csv and sw100k.csv contains 10,000 and 100,000 terms respectively.
+Similarily sw10k.csv and sw100k.csv contain 10,000 and 100,000 terms respectively.
 
 ## Structure of the files
 
